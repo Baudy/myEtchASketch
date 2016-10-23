@@ -36,7 +36,7 @@
         {{!base}}
         <hr />
         <footer>
-            <p>&copy; {{ year }} - My Bottle Application</p>
+            <p>&copy; {{ year }} - Tim Carey</p>
         </footer>
     </div>
 
