@@ -10,9 +10,9 @@
     <div class="col-md-4">
         <h2>Hello World</h2>
         <p>
-            This is a piece of Hello World code taken from the bottle website.
+            Yep, this is just a Hello World message.  Hello, World.
         </p>
-        <p><a class="btn btn-default" href="/bottle">Take me there &raquo;</a></p>
+        <p><a class="btn btn-default" href="/bottle">Hi, McBaud &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Nothing here yet</h2>

@@ -20,7 +20,7 @@ def contact():
     """Renders the contact page."""
     return dict(
         title='Contact',
-        message='Your contact page.',
+        message='The contact page.',
         year=datetime.now().year
     )
 
@@ -30,16 +30,8 @@ def about():
     """Renders the about page."""
     return dict(
         title='About',
-        message='Your application description page.',
+        message='The application description page.',
         year=datetime.now().year
     )
     
-@route('/bottle')
-@view('bottle')
-def about():
-    """Renders the bottle page."""
-    return dict(
-        title='Bottle',
-        message='This is the page with some code in it.',
-        year=datetime.now().year
-    )
+
