@@ -12,7 +12,7 @@
         <p>
             This is a piece of Hello World code taken from the bottle website.
         </p>
-        <p><a class="btn btn-default" href="http://myetchasketch.azurewebsites.net/bottle">Take me there &raquo;</a></p>
+        <p><a class="btn btn-default" href="/bottle">Take me there &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Nothing here yet</h2>
