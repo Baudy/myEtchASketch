@@ -2,7 +2,7 @@
 
 <div class="jumbotron">
     <h1>Learning Python</h1>
-    <p class="lead">This is a Bottle installation using Microsoft Azure.  It's all here to help my learn python.</p>
+    <p class="lead">This is a Bottle installation using Microsoft Azure.  It's all here to help me learn python.</p>
     <p><a href="http://bottlepy.org/docs/dev/index.html" class="btn btn-primary btn-large">Learn more about Bottle &raquo;</a></p>
 </div>
 
