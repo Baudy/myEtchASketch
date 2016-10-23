@@ -34,7 +34,7 @@
         {{!base}}
         <hr />
         <footer>
-            <p>&copy; {{ year }} - Tim Carey</p>
+            <p>&copy; {{ year }} - Tim Carey.</p>
         </footer>
     </div>
 
